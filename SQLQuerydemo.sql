@@ -1,1 +1,1 @@
-select * from [dbo].[EmailID_migrate]
+select top 15* from [dbo].[EmailID_migrate]
